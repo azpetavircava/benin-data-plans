@@ -65,3 +65,10 @@ layout: default
 
 　　最后，保持耐心和灵活的心态比任何攻略都重要。在贝宁，连接网络的过程本身，也是一次小小的文化体验。享受这段有点小挑战的旅程吧！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Benin SIM 卡购买与激活指南](https://faciylike.github.io/benin-sim-guides)
